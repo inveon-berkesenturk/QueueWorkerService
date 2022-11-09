@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueWorkerService", "QueueWorkerService\QueueWorkerService.csproj", "{EAC97FCB-2E40-4465-9D76-82C562ED56FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC97FCB-2E40-4465-9D76-82C562ED56FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC97FCB-2E40-4465-9D76-82C562ED56FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC97FCB-2E40-4465-9D76-82C562ED56FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC97FCB-2E40-4465-9D76-82C562ED56FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0915C2A6-30F0-4EDB-A74C-8C8A6DF4154F}
+	EndGlobalSection
+EndGlobal
